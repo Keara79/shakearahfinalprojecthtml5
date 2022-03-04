@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>	
+   <meta charset="UTF-8">
+   <title>Final Project</title>
+</head>
+<body>
+  <h1><mark>Shakearah McNeil</mark></h1>
+<nav>
+  <table>
+    <tr><td><u><a href="http://www.yahoo.com">One</a></u></td><td><u><a href="http://www.cartoonnetwork.com">Two</a></u></td>
+      <td><u>
+        <a href="http://www.adultswim.com">Three</a></u></td><td><mark><u><a href="http://www.nick.com">Four</a></u></mark></td></tr> 
+</table>
+  </nav>
+   <section> 
+     <h2>Favorite Foods</h2>	
+  <ul>
+    <li><mark>Granny Smith Apples</mark></li>
+    <li><mark>Pizza</mark></li>
+    <li><mark>French Fries</mark></li>
+    <li><mark>Chocolate Cake</mark></li>
+  </ul>
+  </section>
+  <section>
+  <h2>Achievements</h2>
+  <p>Progress in the course (100%)<progress max="100" value="100"></progress><p>
+  <p style="margin-top:-15px">Progress in the Specialization capstone        (20%)<progress max="100" value="20"></progress></p>
+  <p style="margin-top:-15px">Progress in life goals <mark>(67%)
+  <progress max="100" value="67"></progress></mark></p>
+  </section>
+  <section>
+  <h2>More About Me</h2>
+    <details><summary>My Childhood</summary></details>
+  <p><mark>I grew up in Baltimore Maryland. As a child I loved going to museums and libraries...and still do!</mark></p>
+  </section>
+    <br>
+  <footer>
+ <img src="http://www.intro-webdesign.com/images/newlogo.png"> 
+<p>This page was created by <mark>Shakearah McNeil</mark> &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com">Intro to Web Design.</a></p>
+  </footer>
+    </body>
+</html>
